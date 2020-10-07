@@ -1,0 +1,15 @@
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "4", "originatingApplicationId": "green"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "6", "originatingApplicationId": "blue"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "2", "originatingApplicationId": "red"}
+{"eventId": {"phoneNo": "estmt"}, "triggerId": "123325679", "contextId": "3", "originatingApplicationId": "orange"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "5", "originatingApplicationId": "purple"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "1", "originatingApplicationId": "blue"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "2", "originatingApplicationId": "red"}
+{"eventId": {"phoneNo": "estmt"}, "triggerId": "123325679", "contextId": "3", "originatingApplicationId": "orange"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "4", "originatingApplicationId": "green"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "5", "originatingApplicationId": "purple"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "6", "originatingApplicationId": "blue"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "7", "originatingApplicationId": "yellow"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "8", "originatingApplicationId": "blue"}
+{"eventId": {"phoneNo": "estmt"}, "triggerId": "123445679", "contextId": "9", "originatingApplicationId": "violet"}
+{"eventId": {"phoneNo": "ebb"}, "triggerId": "123445679", "contextId": "10", "originatingApplicationId": "blue"}

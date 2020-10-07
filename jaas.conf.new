@@ -1,0 +1,15 @@
+KafkaClient {
+com.sun.security.auth.module.Krb5LoginModule required
+useKeyTab=true
+keyTab="/tmp/hdp.keytab"
+serviceName="kafka"
+principal="hdp/admin@HDP.COM";
+};
+Client {
+     com.sun.security.auth.module.Krb5LoginModule required
+     doNotPrompt=true
+     useKeyTab=false
+     useTicketCache=true
+     serviceName="zookeeper"
+     principal="hdp/admin@HDP.COM";
+};

@@ -1,0 +1,18 @@
+KafkaClient {
+     com.sun.security.auth.module.Krb5LoginModule required
+     doNotPrompt=true
+     useKeyTab=true
+     keyTab="/home/ec2-user/kafka.keytab"
+     storeKey=true
+     useTicketCache=true
+     serviceName="kafka"
+     principal="kafka/ec2-34-201-210-90.compute-1.amazonaws.com@HDP.COM";
+    };
+Client {
+     com.sun.security.auth.module.Krb5LoginModule required
+     doNotPrompt=true
+     useKeyTab=false          
+     useTicketCache=true
+     serviceName="zookeeper"
+     principal="kafka/ec2-34-201-210-90.compute-1.amazonaws.com@HDP.COM";
+};
